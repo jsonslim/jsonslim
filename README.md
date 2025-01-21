@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on managing projects
-- 🌱 I’m currently learning German,React, ESP32, Docker, Postgres, Milva, 8n8
-- 👯 I’m looking to collaborate on ESP32 projects, javascript projects, UI design
+- 🔭 I’m currently working on this: "Nabor tech", currently in Instagram
+- 🌱 I’m currently learning this: German, React, ESP32, Docker, Postgres, Milva, 8n8
+- 👯 I’m looking to collaborate on projects using this: ESP32, JavaScript, UI design
 - 💬 Ask me about formal logic
 - 📫 How to reach me: instagram.com/highelectroniker
 
