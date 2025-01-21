@@ -6,7 +6,8 @@
 - 💬 Ask me about this: Programming, music, hardware, VR,
 - 
 - 📫 How to reach me:
-- [Tech](https://instagram.com/highelectroniker)
-- [Music](https://instagram.com/jsonslim)
+- [Instagram-Tech](https://instagram.com/highelectroniker)
+- [Instagram-Music](https://instagram.com/jsonslim)
 
 ![Visitor Count](https://profile-counter.glitch.me/jsonslim/count.svg)
+Бу, испугался? иди сюда, я тебя не обижу ))
