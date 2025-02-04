@@ -2,7 +2,7 @@
 
 
 
-🔭 I’m currently working on "Nabor tech" - open source software and hardware for artists(insta link below)
+🔭 I’m currently working on "Nabor tech". The open source tools for musicians and digital artists. 
 
 🌱 I’m currently learning React, ESP32, Docker, Postgres, Milva, 8n8, German
 
@@ -17,5 +17,13 @@
 [Instagram-Tech](https://instagram.com/highelectroniker)
 
 [Instagram-Music](https://instagram.com/jsonslim)
+
+:pencil2: Projects:
+
+[WHAMMY MAXIMIZER](https://wave42.gumroad.com/l/whammymaximizer)
+
+[Ambilight system for Pico4 VR](https://wave42.gumroad.com/l/vr_ambilight)
+
+These projects are powered by awesome people like you - check out my Ko-fi and Patreon if you'd like to join in!"
 
 ![Visitor Count](https://profile-counter.glitch.me/jsonslim/count.svg)
