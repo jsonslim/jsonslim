@@ -26,5 +26,7 @@
 
 These projects are powered by awesome people like you - check out my Ko-fi and Patreon if you'd like to join in!"
 
+
 VISITORS
+
 ![Visitor Count](https://profile-counter.glitch.me/jsonslim/count.svg)
