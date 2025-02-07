@@ -24,6 +24,8 @@
 
 [Ambilight system for Pico4 VR](https://wave42.gumroad.com/l/vr_ambilight)
 
+Thank you for supporting me on [Patreon](https://patreon.com/jsonslim?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
+
 Tip if you like what you see ;) ---> [ko-fi](https://ko-fi.com/jsonslim)
 
 
