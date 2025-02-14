@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on "Nabor tech". The open source tools for musicians and digital artists. 
 
-🌱 I’m currently learning React, ESP32, Docker, Postgres, Milva, 8n8, German
+🌱 I’m currently learning - React, ESP32, KiKad, Docker, Postgres, N8N, German
 
 👯 I’m looking to collaborate on projects using ESP32 and/or JavaScript
 
