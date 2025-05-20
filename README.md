@@ -14,7 +14,7 @@
 
 📫 How to reach me:
 
-![](https://myoctocat.com/assets/images/base-octocat.svg)
+![](/fiverr-icon.png)
 
 [Fiverr](https://www.fiverr.com/s/2KoDp3e)
 
