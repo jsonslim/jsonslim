@@ -14,6 +14,8 @@
 
 📫 How to reach me:
 
+<a href="https://linkedin.com/in/yourusername" target="_blank"><img align="center" src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/svg/brands/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
+
 [Fiverr](https://www.fiverr.com/s/2KoDp3e)
 
 [Linkedin](https://www.linkedin.com/in/sergeynodejs)
