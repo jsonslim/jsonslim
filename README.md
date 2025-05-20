@@ -1,4 +1,4 @@
-![ig-instagram-icon](https://github.com/user-attachments/assets/d394fd54-122e-43a0-aada-7be77d12d3de)## Hi there 👋
+## Hi there 👋
 
 
 
