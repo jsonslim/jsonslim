@@ -2,17 +2,19 @@
 
 
 
-🔭 I’m currently working on "Nabor tech". The open source tools for musicians and digital artists. 
+🔭 I’m currently working on "Nabor tech". The open source tools for creative people. 
 
-🌱 I’m currently learning - React, ESP32, KiKad, Docker, Postgres, N8N, German
+🌱 I’m currently learning - Next.js, ESP32, KiKad, Docker, 
 
-👯 I’m looking to collaborate on projects using ESP32 and/or JavaScript
+👯 I’m looking to collaborate on projects with WEB UI, IOT projects (as a frontend or fullstack engineer)
 
-💬 Ask me about programming, music, hardware, VR games and apps(Pico4)
+💬 Ask me about programming, music, hardware, VR games(Pico4)
 
 <br>
 
 📫 How to reach me:
+
+[Fiverr](https://www.fiverr.com/s/2KoDp3e)
 
 [Instagram-Tech](https://instagram.com/highelectroniker)
 
