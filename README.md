@@ -16,7 +16,7 @@
 
 ![](https://myoctocat.com/assets/images/base-octocat.svg)
 
-[Fiverr](https://www.fiverr.com/s/2KoDp3e)![Uploading ig-instagram-icon.svg…]()
+[Fiverr](https://www.fiverr.com/s/2KoDp3e)
 
 
 [Linkedin](https://www.linkedin.com/in/sergeynodejs)
