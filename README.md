@@ -14,7 +14,7 @@
 
 📫 How to reach me:
 
-![](/fiverr-icon.png)[Fiverr](https://www.fiverr.com/s/2KoDp3e)
+!(/fiverr-icon.png)[](https://www.fiverr.com/s/2KoDp3e)
 
 
 [Linkedin](https://www.linkedin.com/in/sergeynodejs)
