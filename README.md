@@ -2,9 +2,9 @@
 
 
 
-🔭 I’m currently working on "Nabor tech". The open source tools for creative people. 
+🔭 I’m currently working as a freelance Arduino developer. I help creative people bring their ideas to life. 
 
-🌱 I’m currently learning - Next.js, ESP32, KiKad, Docker, 
+🌱 I’m currently learning - Next.js, ESP32, KiKad, Docker, German :)
 
 👯 I’m looking to collaborate on projects with WEB UI, IOT projects (as a frontend or fullstack engineer)
 
