@@ -17,7 +17,6 @@
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/2KoDp3e) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergeynodejs) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nabor_tech)
-[![Patreon](https://img.shields.io/badge/Patreon-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](patreon.com/jumper_g)
 
 
 :pencil2: Projects:
