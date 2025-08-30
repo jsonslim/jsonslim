@@ -2,7 +2,7 @@
 
 
 
-🔭 I’m currently working as a freelance Arduino developer. I help creative people bring their ideas to life. 
+🔭 I’m currently working as a freelance software developer. I help creative people bring their ideas to life. 
 
 🌱 I’m currently learning - Next.js, ESP32, KiKad, Docker, German :)
 
